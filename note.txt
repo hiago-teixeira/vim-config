@@ -1,0 +1,6 @@
+Anotações:
+    git remote add origin {{URL GIT REPOSITORY}} -> adicionando conexão com repositorio do git
+
+    git push -u origin master -> enviando dados e referenciando a oirin com a branch master
+
+    
